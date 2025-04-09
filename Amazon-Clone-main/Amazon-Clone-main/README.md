@@ -42,7 +42,7 @@ To view the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SubratZi/Amazon-Clone.git
+   git clone https://github.com/BluemoonV/Amazon-Clone.git
 
 2. **Navigate to the project directory**:
 
@@ -69,7 +69,7 @@ Contributions are welcome! Please follow these steps:
 
 2. **Create a new branch**:
    ```bash
-   git checkout -b feature/SubratZi
+   git checkout -b feature/BluemoonV
 
 3. **Commit your changes**:
     git commit -m 'Add some feature'
@@ -83,5 +83,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries, please contact parsurambaral42@gmail.com.
+For any inquiries, please contact nourinfaria19@gmail.com.
 
